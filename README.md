@@ -19,4 +19,4 @@ Demonstrate VPN setup and analyze its impact on IP address, privacy, and traffic
 - `vpn-disconnected-ip.png`
 
 ## ✅ Summary
-Using ProtonVPN, we successfully masked our IP, verified encryption, and documented privacy improvements with VPN use.
+VPNs enhance privacy and security but may reduce speed and raise trust concerns.
